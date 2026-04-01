@@ -54,6 +54,7 @@ Legal or regulatory scenarios: Any message suggesting legal action, formal priva
 Policy or refund specifics: The model avoids guarantees but may still omit edge‑policy details that require agent judgement.
 Ambiguity and multi‑topic inputs: If the message mixes multiple requests, the model may under‑specify steps without a clarifying question.
 Hallucination risk: Low for short drafts, but still mitigated by strict instruction and human review.
+
 Recommendation for deployment
 Use as a human‑in‑the‑loop drafting assistant:
 Default to r2 for production drafts.

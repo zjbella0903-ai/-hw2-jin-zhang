@@ -40,3 +40,5 @@ The app builds a full prompt, calls the Gemini model once, prints metadata, and 
 Output filename pattern: outputs/gem-<model>-v-<version>-case<case>-YYYYMMDD-HHMMSS.txt
 Run all cases for one prompt version
 
+video link：https://youtu.be/HJuSrm6dNts
+
