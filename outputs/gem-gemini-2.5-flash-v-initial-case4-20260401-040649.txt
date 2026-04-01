@@ -1,0 +1,7 @@
+I understand you wish to cancel order #B7777, but also want it to arrive tomorrow. These requests are contradictory.
+
+Please clarify if you want to:
+1.  **Cancel** order #B7777 entirely.
+2.  **Keep** order #B7777 active and attempt tomorrow's delivery.
+
+Once you confirm your preference, I can proceed with the correct action.
